@@ -1,4 +1,4 @@
-package practice;
+package day33_Statics.practice;
 
 public class EmployeeInfo {
     public static void main(String[] args) {

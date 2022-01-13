@@ -13,7 +13,7 @@ Create a class called Diamond.java, and print:
                    \ /
                     V
  */
-package practice;
+package day33_Statics.practice;
 
 public class Diamond {
     public static void main(String[] args) {

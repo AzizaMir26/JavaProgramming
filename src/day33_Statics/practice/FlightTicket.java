@@ -10,7 +10,7 @@ create a class named FlightTicket, and declare the following variables:
             From Las Vegas to McLean is $425.5
  */
 
-package practice;
+package day33_Statics.practice;
 
 public class FlightTicket {
     public static void main(String[] args) {

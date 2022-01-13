@@ -1,4 +1,4 @@
-package practice;
+package day33_Statics.practice;
 
 public class SelfIntro {
     public static void main(String[] args) {

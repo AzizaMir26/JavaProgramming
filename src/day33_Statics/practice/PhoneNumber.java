@@ -13,7 +13,7 @@
         */
 
 
-package practice;
+package day33_Statics.practice;
 
 public class PhoneNumber {
     public static void main(String[] args) {

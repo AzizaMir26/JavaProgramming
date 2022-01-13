@@ -1,4 +1,4 @@
-package practice;
+package day33_Statics.practice;
 import java.sql.SQLOutput;
 import java.util.*;
 public class QuizTaskEqual {
