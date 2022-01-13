@@ -8,7 +8,7 @@ public class BMW extends Car {
     }
 
     public void breaksDown() {
-        System.out.println(brand + " " + model" is breaking down");
+        System.out.println(brand + " " + model+" is breaking down");
     }
 
     public void racing() {
