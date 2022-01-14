@@ -1,4 +1,4 @@
-package day38_Inheritance.day15_ForLoop;
+package day15_ForLoop;
 
 public class ForLoopPractice {
     public static void main(String[] args) {
