@@ -18,6 +18,31 @@ public class Cydeo {
         developer.setAge(39);
         System.out.println(developer.getAge());
         System.out.println(developer);
+        developer.work();
+        teacher.work();
+        tester.work();
+        //student.work() has no IS A relation with Employee class
+
+        System.out.println("-----------------------------------");
+        
+        developer.eat();
+        developer.drink();
+        developer.sleep();
+        developer.fixingBugs();
+        
+        System.out.println("---------------------------");
+        
+        tester.eat();
+        tester.drink();
+        tester.sleep();
+       // tester.fixingBugs(); action of developer not tester 
+        tester.createTicket();
+
+        teacher.eat();
+        teacher.drink();
+        teacher.sleep();
+
+
     }
 
 }
