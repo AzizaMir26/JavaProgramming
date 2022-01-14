@@ -1,4 +1,4 @@
-package day15_ForLoop;
+package day38_Inheritance.day15_ForLoop;
 
 import java.util.Locale;
 
