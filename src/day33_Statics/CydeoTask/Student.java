@@ -1,4 +1,4 @@
-package day39_Recap.CydeoTask;
+package day33_Statics.CydeoTask;
 
 public class Student extends Person  {
 
